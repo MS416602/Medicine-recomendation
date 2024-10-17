@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0000e7;
+}
+
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    font-weight: bold;
+    color: #333;
+}
+
+.card {
+    background-color: #212529;
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+form label {
+    font-weight: bold;
+}
+
+#transcription {
+    border: 1px dashed #fff;
+    padding: 10px;
+    font-style: italic;
+}
+
+button {
+    font-size: 18px;
+}
+
+.modal-header {
+    background-color: #333;
+    color: #fff;
+}
